@@ -31,6 +31,7 @@ gcc -o 1337flooder 1337flooder.c
 EXAMPLE:
 ./1337-flooder baiamare.ro 80
 ```
+# NOTE! YOU NEED TO TYPE THE WEBSITE NAME WITHOUT HTTP/HTTPS ONLY THE NAME OF IT
 
 ## Screenshot
 
