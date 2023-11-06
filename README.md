@@ -26,6 +26,10 @@
 
 ```bash
 gcc -o 1337flooder 1337flooder.c
+./1337-flooder IP/Website PORT
+
+EXAMPLE:
+./1337-flooder baiamare.ro 80
 ```
 
 ## Screenshot
