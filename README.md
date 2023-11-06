@@ -28,9 +28,10 @@
 gcc -o 1337flooder 1337flooder.c
 ```
 
-## Contributing
+## Screenshot
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+### Before
+![ss](https://cdn.discordapp.com/attachments/1168461103257358337/1171034071376343080/image.png?ex=655b3577&is=6548c077&hm=412e62093f1882040e03ec3bd4617a3bc7e1594038873ce997fa5cafd0ff3f39&)
 
-Please make sure to update tests as appropriate.
+### After
+![ss](https://media.discordapp.net/attachments/1168461103257358337/1171033898554236989/image-50.png?ex=655b354e&is=6548c04e&hm=535eaabd0ca03b13b64c0d0dcb0f7c2f5e4bbc1ed02c2f8bddbf85f75efee4ff&=&width=996&height=491)
